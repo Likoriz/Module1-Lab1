@@ -41,7 +41,7 @@ public class Main {
         session(students);
 
         System.out.println("Студенты в конце года");
-        for(int i = 1; i < 4; i++)
+        for(int i = 1; i < 5; i++)
             printStudents(students, i);
     }
 }
